@@ -1,0 +1,39 @@
+Node Js
+------------------------
+	Installation
+	Basics 
+	Essentials to learn node
+	REPL (read, Evalute, print and loop)
+	Load a file
+
+	URL : https://nodejs.org/en/download/ 
+	
+	After installing make sure run the commands working
+	node -v
+	npm --version
+	V8 engine --> c++-> (libuv )--Machine
+	
+	Exploring data types
+	 String 
+	 Boolean
+	 Number
+	 Undefined
+	 Null
+	 RegExp
+	 
+	 Code Editors
+		sublime text
+		vs code
+		atom
+		pycharm
+	NPM --basics
+	-----------------------------	
+	public or private modules
+	globally
+	locally
+	^ ~ ""
+	npm install/i module-name
+	npm install --global/-g module-name
+	npm install module-name --save/-S
+	npm install module-name --save-dev/ -D
+	Use exact as much as u can
