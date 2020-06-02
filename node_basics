@@ -1,0 +1,43 @@
+Node js
+
+	Node
+	NODE -E "sfasdf"
+	NODE FILENAME.JS
+
+	Modules and imports
+	
+	hello.js
+	module.exports.hi = "hello";
+
+	module.exports.speak = function(msg) { 
+
+		console.log(msg);
+	};
+
+	app.js
+	
+	var obj = require('./hello');
+	console.log(obj.hi);
+	console.log(obj.speak('1'));
+
+	
+		
+		
+	in built modules
+
+	fs 	   -> file system functions
+	events -> events features 
+	stream -> 
+	http   -> to create a server and client call
+	util   -> formatting the string  // util.format("hello %s world no %d","name", 1);
+	url 	
+	path 
+	querystring    //url?param=test&param=test2
+	crypto -> 
+	os     -> to access operating system information
+	https  -> 
+	net    -> to get network infomation
+		
+		
+		
+		
