@@ -1,11 +1,13 @@
 Node js
 
-	Node
-	NODE -E "sfasdf"
+	launching node in different ways
+	-------------
+	NODE
+	NODE -e "sfasdf"
 	NODE FILENAME.JS
 
 	Modules and imports
-	
+	--------------------
 	hello.js
 	module.exports.hi = "hello";
 
